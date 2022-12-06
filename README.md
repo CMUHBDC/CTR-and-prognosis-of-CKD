@@ -1,2 +1,2 @@
 # CTR-and-prognosis-of-CKD
-Model prediction of outocmes of interests
+Model prediction of outcome of interests
